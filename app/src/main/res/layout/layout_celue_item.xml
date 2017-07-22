@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/title_one_name"
+        android:text="0%"
+        android:textSize="13sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/jingzhi_num"
+        android:text="累计收益率"
+        android:textSize="13sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/title_one_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/title_two_name"
+        android:text="10%"
+        android:textSize="13sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/max_num"
+        android:text="近一月收益率"
+        android:textSize="13sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/title_two_name"
+        android:layout_toRightOf="@id/line_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/title_three_name"
+        android:text="100%"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:textSize="13sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/rate_num"
+        android:text="交易胜率"
+        android:textSize="13sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/title_three_name"
+        android:layout_toRightOf="@id/line_item_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+</LinearLayout>

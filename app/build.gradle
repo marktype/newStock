@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'maozhua'
+            keyPassword '123456'
+            storeFile file('E:/Android/downloadapp/NewsStock-master/app/lovecat.jks')
+            storePassword '123456'
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "com.example.drawer.stockapp"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 15
+        versionName "2.0.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+repositories { flatDir { dirs 'libs' } }
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':imageSlider_viktor_library')
+    compile project(':oneKeyShareNew')
+    compile files('libs/jpush-android-2.1.9.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/jce.jar')
+    compile files('libs/TMAssistantSDK_selfUpdate_201407240950.jar')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+    compile 'com.github.PhilJay:MPAndroidChart:v2.2.5'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.squareup.okhttp3:okhttp:3.2.0'
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.github.chrisbanes.photoview:library:1.2.4'
+    compile 'com.androidadvance:topsnackbar:1.1.1'
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    compile 'com.android.support:design:25.0.0'
+}

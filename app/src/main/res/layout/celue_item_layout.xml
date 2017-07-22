@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/goal_shouyi_icon"
+        android:layout_width="wrap_content"
+        android:text="当前收益"
+        android:textSize="@dimen/my_txt_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/margin_5dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/goal_shouyi"
+        android:text="0.0%"
+        android:textSize="@dimen/title_text_size"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="1px"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:layout_height="@dimen/margin_30dp"
+        android:background="@color/circle_con_bg"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/max_long_time_icon"
+        android:text="最大盈利"
+        android:textSize="@dimen/my_txt_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_margin="@dimen/margin_5dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/max_long_time"
+        android:text="0%"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/title_text_size"
+        android:textColor="@android:color/black"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="1px"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:layout_height="@dimen/margin_30dp"
+        android:background="@color/circle_con_bg"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/zhishunxian_icon"
+        android:layout_width="wrap_content"
+        android:text="最大亏损"
+        android:textSize="@dimen/my_txt_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/margin_5dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/zhishunxian_txt"
+        android:text="0%"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/title_text_size"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="1px"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:layout_height="@dimen/margin_30dp"
+        android:background="@color/circle_con_bg"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/shouyi_icon"
+        android:text="交易次数"
+        android:textSize="@dimen/my_txt_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_margin="@dimen/margin_5dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/shouyi_txt"
+        android:text="0"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/title_text_size"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+    <!--<TextView-->
+        <!--android:id="@+id/cellect_icon"-->
+        <!--android:text="收藏"-->
+        <!--android:gravity="bottom"-->
+        <!--android:drawableLeft="@mipmap/star_empty"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignParentBottom="true"-->
+
+        <!--android:layout_margin="@dimen/margin_10dp"-->
+        <!--android:padding="@dimen/margin_5dp"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"-->
+        <!--/>-->
+</LinearLayout>

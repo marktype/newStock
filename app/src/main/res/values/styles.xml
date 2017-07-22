@@ -1,0 +1,76 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyRatingBar" parent="@android:style/Widget.RatingBar">
+    <item name="android:progressDrawable">@drawable/food_rating_bar_full</item>
+    <item name="android:minHeight">22dp</item>
+    <item name="android:maxHeight">22dp</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+
+    <style name="Widget.SeekBar.Normal" parent="@android:style/Widget.SeekBar">
+        <item name="android:maxHeight">@dimen/margin_5dp</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/seek_bar_bg</item>
+        <item name="android:minHeight">@dimen/margin_5dp</item>
+        <item name="android:thumb">@mipmap/dian</item>
+
+    </style>
+    <style name="MyInfoStyle">
+        <item name="android:background">@drawable/layout_selector</item>
+        <item name="android:padding">@dimen/margin_13dp</item>
+    </style>
+    <style name="MyContentStyle">
+        <item name="android:layout_marginRight">@dimen/margin_15dp</item>
+        <item name="android:layout_marginLeft">@dimen/margin_15dp</item>
+        <item name="android:layout_marginTop">@dimen/margin_5dp</item>
+    </style>
+
+    <!-- popwindow动画属性 -->
+    <style name="mypopwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+        <!-- 指定显示的动画xml -->
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+        <!-- 指定消失的动画xml -->
+    </style>
+
+    <style name="dialog_no_black_border" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:windowBackground">@null</item>
+        <!--<item name="android:backgroundDimEnabled">false</item>-->
+    </style>
+
+    <!-- 自定义dialog -->
+    <style name="myDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style> <!-- 自定义dialog -->
+    <!-- 自定义dialog -->
+    <style name="myDialogFragment" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@color/write_color</item>
+        <item name="android:windowNoTitle">true</item>
+    </style> <!-- 自定义dialog -->
+
+    <style name="MyDialogStyleDia">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

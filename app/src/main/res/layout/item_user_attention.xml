@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="18dp"
+    android:paddingRight="18dp"
+    android:paddingBottom="@dimen/margin_10dp"
+    android:paddingTop="@dimen/margin_10dp">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/item_attention_user_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@mipmap/usericon"
+        app:civ_border_color="@color/write_color"
+        app:civ_border_width="@dimen/margin_1dp" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@+id/item_attention_user_icon">
+
+        <TextView
+            android:id="@+id/item_attention_user_nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_8dp"
+            android:text="用户名"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/item_attention"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_20dp"
+            android:text="取消关注"
+            android:textColor="#616161"
+            android:textSize="14sp" />
+    </RelativeLayout>
+</RelativeLayout>

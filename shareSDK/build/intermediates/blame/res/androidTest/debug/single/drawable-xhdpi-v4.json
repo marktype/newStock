@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "E:\\Android\\downloadapp\\NewsStock-master\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    }
+]

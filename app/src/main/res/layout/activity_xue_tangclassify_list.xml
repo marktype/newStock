@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/circle_con_bg"
+    tools:context="com.example.drawer.stockapp.activity.XueTangclassifyListActivity">
+    <RelativeLayout
+        android:id="@+id/dynamic_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/write_color">
+
+        <ImageView
+            android:id="@+id/back_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/margin_10dp"
+            android:src="@mipmap/arrowlift" />
+
+        <TextView
+            android:id="@+id/back_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:layout_marginLeft="@dimen/margin_10dp"
+            android:layout_marginRight="@dimen/margin_10dp"
+            android:padding="@dimen/margin_10dp"
+            android:text="学堂列表"
+            android:textColor="@android:color/background_dark"
+            android:textSize="@dimen/title_text_size" />
+    </RelativeLayout>
+
+    <com.example.drawer.stockapp.customview.view.XListView
+        android:id="@+id/xuetang_classify_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/dynamic_title"
+        android:divider="@null" />
+
+    <ImageView
+        android:id="@+id/loading_failed"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/loading_failed"
+        android:visibility="gone" />
+</RelativeLayout>

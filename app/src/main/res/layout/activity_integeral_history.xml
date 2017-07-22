@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/content_con_bg"
+
+    tools:context="com.example.drawer.stockapp.activity.IntegeralHistoryActivity">
+    <RelativeLayout
+        android:id="@+id/attention_title"
+        android:layout_width="match_parent"
+        android:background="@color/write_color"
+        android:layout_height="@dimen/title_height">
+        <ImageView
+            android:id="@+id/back_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@mipmap/arrowlift"
+            android:padding="@dimen/margin_10dp"/>
+        <TextView
+            android:id="@+id/backtxt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="积分记录"
+            android:gravity="center"
+            android:textColor="@android:color/background_dark"
+            android:layout_centerInParent="true"
+            android:padding="@dimen/margin_10dp"
+            android:textSize="@dimen/title_text_size"/>
+    </RelativeLayout>
+    <ListView
+        android:id="@+id/integral_list"
+        android:layout_below="@id/attention_title"
+        android:layout_marginTop="@dimen/margin_5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

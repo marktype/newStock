@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2975,
+                    "endColumn": 57,
+                    "endOffset": 3028
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2975,
+                        "endColumn": 57,
+                        "endOffset": 3028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3033,
+                    "endColumn": 55,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3033,
+                        "endColumn": 55,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3089,
+                    "endColumn": 43,
+                    "endOffset": 3128
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3089,
+                        "endColumn": 43,
+                        "endOffset": 3128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3133,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4003
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3133,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 4003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4008,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 4948
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4008,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4953,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 5823
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\imageSlider_viktor_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4953,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 5823
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingTop="@dimen/margin_10dp"
+    android:paddingLeft="18dp"
+    android:paddingRight="18dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_item_integral_history_integral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_dark"
+        android:text="积分：0" />
+
+    <TextView
+        android:id="@+id/tv_item_integral_history_sign"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_below="@+id/tv_item_integral_history_integral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_dark"
+        android:text="2017-2-3签到" />
+    <TextView
+        android:id="@+id/tv_item_integral_history_time"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_dark"
+        android:text="2017-2-3 14:00:00" />
+
+
+</RelativeLayout>

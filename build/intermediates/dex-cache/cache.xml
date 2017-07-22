@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\MobTools-2016.0707.1708.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28f68213d34af515852ca328277fd4788ddc20c2">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\MobTools-2016.0707.1708_cbaba1cd26d25f0354ea1461de349355bf297524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes.photoview-library-1.2.4_dc6911dc03f1df3607d2697a8ad33a3477a21799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_38b4726bc4a233b3700dc8512c999945b1d07ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\libs\TMAssistantSDK_selfUpdate_201407240950.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5bff9b6228c0d75171b246de3ba9442bfb589f00">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\TMAssistantSDK_selfUpdate_201407240950_4f0420d0be26ea10fcc6f63838d509c9e2a38c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_3ba1d0fbe960e25480de4c76d63d08316b896aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_72730f0490a7ae7f3af46a332916c40eaea15b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.androidadvance\topsnackbar\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb3cf97748344da6fad1deb830c7c479a7c53645">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.androidadvance-topsnackbar-1.1.1_4be64fbbad6291305155b80d00914bacc4a4b966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_46bf95e01dbc9e05484b0df7b14ce0ab16166a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\MobCommons-2016.0707.1708.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="398ade3da1c6e9bc6bd0de7954780cab949420c7">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0707.1708_07f634fb7199faf591e8a8f677a93f5114476ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_dce809eac5dc7c6da5d742227fc585f3e96afcc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_88e097115d930365c31c0fe00df731708f9ffe86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_35d6fb1d3fd280db63b6b9e04a79764ac773a0de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2163d6ef3107b7a08dfce9c764f88f056e3f75fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="866fd298a45f52678429bf7b4231b46e22987c6f">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.4_c2d702f20fba4380353749a0aeef555ab72bcef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\libs\jce.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9eb90ee5d82c8f2ef8d21632c41b3a16de06cc8a">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\jce_54a0214dadb008ccc45efb808debb8ecc49f7c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.5\e135072797f494a3b6cb10640dd8c6495261b9ac\MPAndroidChart-v2.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e135072797f494a3b6cb10640dd8c6495261b9ac">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.5_79e116f7b6012a27a47db980952623712cc1762b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_737be33c92afa3d651417584f62e561120fe5e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c431f77fa47ebe016e21cbf25ff0f3cbd0349a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\ShareSDK-QZone-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f37ea54a903cd9b10963b10da1f7b221ca97f8c0">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.4_7dfcb4178fe1a9c66cf787192707140ca06bef99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Users\Administrator\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c35cba28c67165fd385b9b2736b4878e464497d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_45ec65d325c617e3505f857f68377e8ef23d8ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\imageSlider_viktor_library\unspecified\jars\libs\picasso-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381b2f2b37898b126b40040412d51d21f7ea76a8">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\picasso-2.3.1_13bd7f759aac04b5ae05427402516180983e21c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\gson-2.6.2_002b7fbf7a0de167c934ae8280ecce1c989b18df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-Core-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe37d765c9eb58dff824e4efffd987ab49275592">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.4_935ddd35f4cde50b7cb76d9a5ab8efb86f837475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\libammsdk_9e075603cae007c09dfe2df1b40d5fa967de6ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\ShareSDK-Core-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99bb3aeaafb9e39b48dceb4e77fcff2887555501">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.4_c5af61d27a3e35c2fb0d1fcf9f7a95bcf3d48592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ab93b676056513aa0a1bf5b6d5adc0f7c1f5d921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3a915955e317a1623960e4bce20a4259d439e31b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.1\4bff754fc05336940a8cb348e455c01515b5d883\analytics-6.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bff754fc05336940a8cb348e455c01515b5d883">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\analytics-6.1.1_ff11cc946f5a849fdc2e272c73d6f947e84f941b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_fd90b62b5dce498533c082b62d2fbdea2593ce58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_98228b5df94c6fb9c94a46a52104ad295e07bd86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ae97b837fce6e6b29528168ff62e6bb5fb4abe">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.4_be17bd3041088fde9cec55a75bf5e1ffa5f16621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_3c52d79008ce738271bc96d5a16d7fd9526ba880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\imageSlider_viktor_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a798d0bec56f063dc4b934ac69d1beb558471900">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\NewsStock-master-imageSlider_viktor_library-unspecified_de51558e766f98b8bdfc67c77665a6a8b936c6fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbe7df3fa78a22c3f058ce7950e456810db33c5e">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\NewsStock-master-shareSDK-unspecified_c5a530341821e370cc9e3c37124bfb3520fbf031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_0a6ced349d1dd95613396d8e49d507aa77beaa6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_96c2ec36310e9d965fa69353e684c200677cd7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\libs\jpush-android-2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.9_fc0664b1d5d3c4309f82970af0f54cf7e297bd30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_18337a65aaed761f642fa919868da80b8ec6f655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\shareSDK\unspecified\jars\libs\ShareSDK-QQ-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70d8c8e5f1523ff2e5f20af3b5af779d378556cb">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.4_508858fb4d755f6ca50c768fece18c0f72188704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\exploded-aar\NewsStock-master\oneKeyShareNew\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="196dacc425a5798917204f46ef6bc091ffbf230b">
+        <dex dex="E:\Android\downloadapp\NewsStock-master\app\build\intermediates\pre-dexed\debug\NewsStock-master-oneKeyShareNew-unspecified_3d8225ac087d77ca239d7cc1c0ebf7112d83b74c.jar" />
+    </item>
+
+</items>

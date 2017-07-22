@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/write_color"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tiaocang_ttx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="最新调仓"
+        android:textSize="@dimen/title_text_size"
+        android:textColor="@android:color/black"
+        android:layout_margin="@dimen/margin_10dp"/>
+    <TextView
+        android:id="@+id/history_see"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查看历史"
+        android:layout_alignParentRight="true"
+        android:textSize="@dimen/title_text_size"
+        android:visibility="gone"
+        android:textColor="@color/colorPrimaryDark"
+        android:padding="@dimen/margin_10dp"/>
+    <TextView
+        android:id="@+id/last_time"
+        android:layout_toRightOf="@id/tiaocang_ttx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="()"
+        android:textSize="@dimen/my_txt_size"
+        android:layout_alignBaseline="@id/tiaocang_ttx"
+        />
+    <TextView
+        android:id="@+id/tiaocang_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@id/tiaocang_ttx"
+        android:background="@color/circle_con_bg"/>
+    <com.example.drawer.stockapp.customview.MyListView
+        android:id="@+id/tiaocang_listview"
+        android:layout_below="@id/tiaocang_line"
+        android:listSelector="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/no_data_img"
+        android:layout_below="@id/tiaocang_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/min_txt_size"
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:drawableTop="@mipmap/img"/>
+
+</RelativeLayout>

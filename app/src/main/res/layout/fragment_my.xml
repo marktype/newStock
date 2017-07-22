@@ -1,0 +1,383 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/circle_con_bg"
+    >
+<com.example.drawer.stockapp.customview.MyReboundScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/my_scrollview"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/circle_con_bg">
+
+        <include
+            android:id="@+id/title_lin"
+            layout="@layout/my_layout_title" />
+
+        <RelativeLayout
+            android:id="@+id/user_name_lin"
+            style="@style/MyInfoStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_lin"
+            android:layout_marginTop="@dimen/margin_5dp">
+
+            <TextView
+                android:id="@+id/user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/user_name_txt"
+                android:textSize="@dimen/my_txt_size"
+                android:textColor="@android:color/background_dark" />
+
+            <TextView
+                android:id="@+id/user_name_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:drawablePadding="@dimen/margin_10dp"
+                android:textSize="12sp"
+                android:drawableRight="@mipmap/arrowright"
+                android:text="修改" />
+
+        </RelativeLayout>
+
+        <!--<TextView-->
+            <!--android:id="@+id/line_one"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1px"-->
+            <!--android:layout_below="@id/user_name_lin"-->
+            <!--android:layout_marginLeft="@dimen/margin_15dp"-->
+            <!--android:layout_marginRight="@dimen/margin_15dp"-->
+            <!--android:background="@color/circle_con_bg" />-->
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/user_address_lin"-->
+            <!--style="@style/MyInfoStyle"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@id/line_one">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/user_address"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/address_txt"-->
+                <!--android:textColor="@android:color/background_dark" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:drawablePadding="@dimen/margin_10dp"-->
+                <!--android:drawableRight="@mipmap/arrowright"-->
+                <!--android:text="四川" />-->
+        <!--</RelativeLayout>-->
+
+        <TextView
+            android:id="@+id/line_two"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/user_name_lin"
+            android:layout_marginLeft="@dimen/margin_15dp"
+            android:layout_marginRight="@dimen/margin_15dp"
+            android:background="@color/circle_con_bg" />
+
+        <RelativeLayout
+            android:id="@+id/sex_lin"
+            style="@style/MyInfoStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line_two">
+
+            <TextView
+                android:id="@+id/sex_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sex_txt"
+                android:textSize="@dimen/my_txt_size"
+                android:textColor="@android:color/background_dark" />
+
+            <TextView
+                android:id="@+id/man_sex_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:drawablePadding="@dimen/margin_10dp"
+                android:drawableRight="@mipmap/arrowright"
+                android:textSize="@dimen/my_txt_size"
+                android:text="男" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/line_three"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/sex_lin"
+            android:layout_marginLeft="@dimen/margin_15dp"
+            android:layout_marginRight="@dimen/margin_15dp"
+            android:background="@color/circle_con_bg" />
+
+        <RelativeLayout
+            android:id="@+id/bind_phone_lin"
+            style="@style/MyInfoStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line_three">
+
+            <TextView
+                android:id="@+id/bind_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bind_phone_txt"
+                android:textSize="@dimen/my_txt_size"
+                android:textColor="@android:color/background_dark" />
+
+            <ImageView
+                android:id="@+id/img_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@mipmap/arrowright" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/line_four"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/bind_phone_lin"
+            android:layout_marginLeft="@dimen/margin_15dp"
+            android:layout_marginRight="@dimen/margin_15dp"
+            android:background="@color/circle_con_bg" />
+
+        <RelativeLayout
+            android:id="@+id/reset_password_lin"
+            style="@style/MyInfoStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line_four">
+
+            <TextView
+                android:id="@+id/reset_password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/my_txt_size"
+                android:text="@string/reset_password_txt"
+                android:textColor="@android:color/background_dark" />
+
+            <ImageView
+                android:id="@+id/img_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@mipmap/arrowright" />
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/line_five"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/reset_password_lin"
+            android:layout_marginLeft="@dimen/margin_15dp"
+            android:layout_marginRight="@dimen/margin_15dp"
+            android:background="@color/circle_con_bg" />
+        <RelativeLayout
+            android:id="@+id/creit_record_lin"
+            style="@style/MyInfoStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line_five">
+
+            <TextView
+                android:id="@+id/tv_creit_record"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/my_txt_size"
+                android:text="积分记录"
+                android:textColor="@android:color/background_dark" />
+
+            <ImageView
+                android:id="@+id/img_creit_record"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@mipmap/arrowright" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/line_six"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/creit_record_lin"
+            android:layout_marginLeft="@dimen/margin_15dp"
+            android:layout_marginRight="@dimen/margin_15dp"
+            android:background="@color/circle_con_bg" />
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/my_point_lin"-->
+            <!--style="@style/MyInfoStyle"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@id/line_five">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/my_point"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/my_point_txt"-->
+                <!--android:textSize="@dimen/my_txt_size"-->
+                <!--android:textColor="@android:color/background_dark" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/score_txt"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:drawablePadding="@dimen/margin_10dp"-->
+                <!--android:text="" />-->
+        <!--</RelativeLayout>-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/line_six"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1px"-->
+            <!--android:layout_below="@id/my_point_lin"-->
+            <!--android:layout_marginLeft="@dimen/margin_15dp"-->
+            <!--android:layout_marginRight="@dimen/margin_15dp"-->
+            <!--android:background="@color/circle_con_bg" />-->
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/my_wallet_lin"-->
+            <!--style="@style/MyInfoStyle"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@id/line_six">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/my_wallet"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/my_wallet_txt"-->
+                <!--android:textSize="@dimen/my_txt_size"-->
+                <!--android:textColor="@android:color/background_dark" />-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/img_three"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:src="@mipmap/arrowright" />-->
+        <!--</RelativeLayout>-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/line_seven"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1px"-->
+            <!--android:layout_below="@id/my_wallet_lin"-->
+            <!--android:layout_marginLeft="@dimen/margin_15dp"-->
+            <!--android:layout_marginRight="@dimen/margin_15dp"-->
+            <!--android:background="@color/circle_con_bg" />-->
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/my_quan_lin"-->
+            <!--style="@style/MyInfoStyle"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@id/line_seven">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/my_quan"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/my_quan_txt"-->
+                <!--android:textSize="@dimen/my_txt_size"-->
+                <!--android:textColor="@android:color/background_dark" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:drawablePadding="@dimen/margin_10dp"-->
+                <!--android:drawableRight="@mipmap/arrowright"-->
+                <!--android:text="" />-->
+        <!--</RelativeLayout>-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/line_eight"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1px"-->
+            <!--android:layout_below="@id/my_quan_lin"-->
+            <!--android:layout_marginLeft="@dimen/margin_15dp"-->
+            <!--android:layout_marginRight="@dimen/margin_15dp"-->
+            <!--android:background="@color/circle_con_bg" />-->
+
+        <RelativeLayout
+            android:id="@+id/all_can_lin"
+            style="@style/MyInfoStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line_six">
+
+            <TextView
+                android:id="@+id/all_can"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/all_can_txt"
+                android:textSize="@dimen/my_txt_size"
+                android:textColor="@android:color/background_dark" />
+
+            <ImageView
+                android:id="@+id/img_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@mipmap/arrowright" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/exit_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_can_lin"
+            android:layout_marginTop="@dimen/margin_5dp"
+            android:background="@color/content_bg"
+            android:textColor="@android:color/background_dark"
+            android:gravity="center"
+            android:textSize="@dimen/my_txt_size"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/exit_txt" />
+
+    </RelativeLayout>
+</com.example.drawer.stockapp.customview.MyReboundScrollView>
+    <ImageView
+        android:id="@+id/img_no_login"
+        android:visibility="gone"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/dynamic_no_login"/>
+    <RelativeLayout
+        android:id="@+id/my_info_relat"
+        android:layout_width="match_parent"
+        android:background="@color/write_color"
+        android:layout_height="@dimen/title_height">
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="我的"-->
+            <!--android:layout_centerInParent="true"-->
+            <!--android:textSize="@dimen/title_text_size"-->
+            <!--android:textColor="@android:color/background_dark"/>-->
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/loading_failed"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:src="@mipmap/loading_failed"/>
+</RelativeLayout>

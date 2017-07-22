@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">爱猫爪</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lianghuacelue_txt">量化策略</string>
+    <string name="niurenzuhe_txt">牛人组合</string>
+    <string name="my_zuhe_txt">我的组合</string>
+    <string name="auto_stock_txt">自选股</string>
+    <string name="find_txt">发现</string>
+    <string name="my_class_txt">我的课堂</string>
+    <string name="zixun_txt">资讯</string>
+    <string name="dongtai_txt">动态</string>
+    <string name="trade_now">实盘交易</string>
+    <string name="user_name">未命名用户</string>
+
+    <string name="money_txt">钱包</string>
+    <string name="trade_quan">交易券</string>
+    <string name="cellect_txt">收藏</string>
+    <string name="exit_txt">退出登录</string>
+    <string name="dongtai_main_body">动态详情</string>
+    <string name="news_main_body">新闻详情</string>
+    <string name="search_txt">搜索</string>
+    <string name="take_group_txt">订阅组合</string>
+    <string name="login_txt">登录</string>
+    <string name="register_txt">注册</string>
+    <string name="register_finish_txt">完成注册</string>
+    <string name="register_success_txt">注册成功</string>
+    <string name="forget_password_txt">忘记密码</string>
+    <string name="alter_phone_txt">修改手机号码</string>
+    <string name="alter_name_txt">修改昵称</string>
+    <string name="alter_hint_name_txt">4-16个字符，可由中英文、数字、符号等组成</string>
+    <string name="time_success_txt"> 成功：组合运行期内，结束运行（到期自动结束）且达到目标收益，视为成功，不退还分成费。</string>
+    <string name="time_failed_txt"> 失败：组合运行期内，结束运行（到期自动结束）但未达到目标收益，视为失败，全额退还分成费。</string>
+    <string name="sure_txt">确认修改</string>
+    <string name="click_login_txt">点我登录</string>
+    <string name="set_up_txt">创建组合</string>
+    <string name="pay_txt">支付</string>
+    <string name="order_txt">立即订阅</string>
+    <string name="user_name_txt">昵称</string>
+    <string name="address_txt">居住地</string>
+    <string name="sex_txt">性别</string>
+    <string name="bind_phone_txt">绑定手机号</string>
+    <string name="reset_password_txt">修改密码</string>
+    <string name="cancal_low_txt">消除缓存</string>
+    <string name="news_info_txt">新消息提醒</string>
+    <string name="above_txt">关于爱猫爪</string>
+    <string name="advice_txt">用户反馈</string>
+    <string name="my_point_txt">我的积分</string>
+    <string name="my_wallet_txt">我的钱包</string>
+    <string name="my_quan_txt">抵用券</string>
+    <string name="all_can_txt">通用</string>
+    <string name="hot_search_txt">热门搜索</string>
+    <string name="attention_txt">关注</string>
+    <string name="send_dynamic_txt">发布动态</string>
+    <string name="send_dynamic_sure_txt">发布</string>
+    <string name="celue_title_one_txt">收益走势</string>
+    <string name="celue_title_txt">实盈量化投资组合第一期</string>
+    <string name="fencheng_txt">分成费: 若组合在运行期间内到成预期目标，平台将收取一定的费用作为收益分成费（分成费=跟投金额×目标收益×分成比例），若未达成目标收益则全额退还。</string>
+    <string name="mianfei_txt">表示此组合无论成功或失败均不收取任何费用。</string>
+    <string name="gentou_txt">预计跟投输入的金额为虚拟资金，在组合设定的跟投范围内，用户需要根据自身投资能力输入期望跟投的金额。</string>
+
+    <string name="target_txt">跟投金额*目标收益=1000*15.5%</string>
+    <string name="fencheng_money_txt">跟投金额*目标收益*分成比例=0元</string>
+    <string name="gentou_start_txt">起投金额为1000元（虚拟资金）元</string>
+    <string name="register_name_digits">._0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ</string>
+
+    <string name="url_server">http://m.mefans.hk/Lib/app/version.xml</string>  <!--http://m.mefans.hk/Lib/app/version.xml-->
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+</resources>

@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:id="@+id/all_title"
+        android:layout_width="match_parent"
+        android:background="@color/write_color"
+        android:layout_height="@dimen/title_height">
+        <ImageView
+            android:id="@+id/my_class_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/margin_10dp"
+            android:layout_marginRight="@dimen/margin_10dp"
+            android:src="@mipmap/message_black"/>
+        <com.example.drawer.stockapp.customview.PagerSlidingTabStrip
+            android:id="@+id/class_group"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:textColor="@color/title_text_un_color"
+            android:textSize="12sp"
+            android:layout_centerHorizontal="true"
+            app:pstsDividerColor="@android:color/transparent"
+            app:pstsIndicatorColor="@color/content_bg"
+            app:pstsIndicatorHeight="2dp"
+            app:pstsScaleZoomMax="0.1"
+            app:pstsShouldExpand="true"
+            app:pstsTabPaddingLeftRight="12dp"
+            app:pstsTextSelectedColor="@color/write_color"
+            />
+        <!--<RadioGroup-->
+            <!--android:id="@+id/class_group"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_centerInParent="true"-->
+            <!--android:padding="@dimen/margin_1dp"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:gravity="center_vertical">-->
+            <!--<RadioButton-->
+                <!--android:id="@+id/find_txt"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:button="@null"-->
+                <!--android:padding="@dimen/margin_4dp"-->
+                <!--android:text="@string/find_txt"-->
+                <!--android:gravity="center"-->
+                <!--android:checked="true"-->
+                <!--android:layout_marginRight="@dimen/margin_10dp"-->
+                <!--android:textColor="@drawable/text_selector"-->
+                <!--android:background="@drawable/title_bg_selecter"-->
+                <!--android:textSize="@dimen/title_text_size" />-->
+            <!--<RadioButton-->
+                <!--android:id="@+id/class_txt"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:button="@null"-->
+                <!--android:gravity="center"-->
+                <!--android:padding="@dimen/margin_4dp"-->
+                <!--android:text="@string/my_class_txt"-->
+                <!--android:textColor="@drawable/text_selector"-->
+                <!--android:background="@drawable/title_bg_selecter"-->
+                <!--android:textSize="@dimen/title_text_size" />-->
+        <!--</RadioGroup>-->
+        <ImageView
+            android:id="@+id/search_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/searchblack"
+            android:padding="@dimen/margin_10dp" />
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/class_content_pager"
+        android:layout_below="@id/all_title"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

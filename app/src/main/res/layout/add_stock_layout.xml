@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/write_color">
+
+
+    <TextView
+        android:id="@+id/stock_title_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_20dp"
+        android:text="股票名称"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/stock_title_name"
+        android:background="@color/circle_con_bg" />
+
+    <com.example.drawer.stockapp.customview.MyListView
+        android:id="@+id/stock_mylist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stock_title_name" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/stock_mylist"
+        android:background="@color/circle_con_bg" />
+
+    <TextView
+        android:id="@+id/add_stock_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/stock_mylist"
+        android:layout_centerHorizontal="true"
+        android:drawableLeft="@mipmap/jiahao"
+        android:drawablePadding="@dimen/margin_10dp"
+        android:padding="@dimen/margin_15dp"
+        android:text="添加股票" />
+</RelativeLayout>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/circle_con_bg"
+    tools:context=".activity.UserInfoDetialActivity">
+
+    <RelativeLayout
+        android:id="@+id/user_info_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/write_color">
+
+        <ImageView
+            android:id="@+id/back_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/margin_10dp"
+            android:src="@mipmap/arrowlift" />
+
+        <TextView
+            android:id="@+id/user_info_nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:padding="@dimen/margin_10dp"
+            android:text="用户昵称"
+            android:textColor="@android:color/background_dark"
+            android:textSize="@dimen/title_text_size" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_user_info"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/user_info_title"
+        android:background="@mipmap/userbg">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_head"
+            android:layout_width="@dimen/margin_70dp"
+            android:layout_height="@dimen/margin_70dp"
+            android:layout_centerInParent="true"
+            android:background="@mipmap/usericon"
+            app:civ_border_color="@color/write_color"
+            app:civ_border_width="@dimen/margin_1dp" />
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_head"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:drawablePadding="@dimen/margin_10dp"
+            android:text="用户名"
+            android:textColor="@android:color/background_dark"
+            android:textSize="16sp" />
+        <ImageView
+            android:id="@+id/ImageView_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_head"
+            android:layout_toRightOf="@+id/user_name"
+            android:background="@mipmap/man"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:drawablePadding="@dimen/margin_10dp"
+            />
+
+        <TextView
+            android:id="@+id/user_is_attention"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_name"
+            android:layout_centerHorizontal="true"
+            android:background="#f4f4f4"
+            android:padding="@dimen/margin_4dp"
+            android:layout_marginTop="@dimen/margin_8dp"
+            android:drawablePadding="@dimen/margin_10dp"
+            android:text="取消关注"
+            android:textColor="#616161"
+            android:textSize="@dimen/my_txt_size" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_fans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:layout_marginLeft="@dimen/margin_15dp"
+        android:layout_marginRight="@dimen/margin_15dp"
+        android:layout_below="@+id/rl_user_info"
+        android:background="@color/write_color"
+        android:padding="@dimen/margin_10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/layout_selector"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fensi_num_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="0"
+                android:textColor="@android:color/background_dark"
+                android:textSize="@dimen/title_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="粉丝"
+                android:textSize="@dimen/my_txt_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/attention_lin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/layout_selector"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/foucs_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="0"
+                android:textColor="@android:color/background_dark"
+                android:textSize="@dimen/title_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="关注"
+                android:textSize="@dimen/my_txt_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/collect_lin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/layout_selector"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/collect_num_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="0"
+                android:textColor="@android:color/background_dark"
+                android:textSize="@dimen/title_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="收藏"
+                android:textSize="@dimen/my_txt_size" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+
+android:id="@+id/tv_scan_gengtou"
+        android:text="查看跟投组合>>"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:textColor="#287bd4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="@dimen/margin_15dp"
+        android:layout_marginRight="@dimen/margin_15dp"
+        android:layout_below="@+id/layout_fans"
+        android:background="@color/write_color"
+        android:padding="@dimen/margin_10dp"
+         />
+    <TextView
+        android:id="@+id/tv_scan_chuangjian"
+
+        android:text="查看创建组合>>"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:textColor="#287bd4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="@dimen/margin_15dp"
+        android:layout_marginRight="@dimen/margin_15dp"
+        android:layout_below="@+id/tv_scan_gengtou"
+        android:background="@color/write_color"
+        android:padding="@dimen/margin_10dp"
+         />
+</RelativeLayout>

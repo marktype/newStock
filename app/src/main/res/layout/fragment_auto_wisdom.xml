@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.drawer.stockapp.fragment.FirstNewsFragment">
+    <android.support.v4.view.ViewPager
+        android:id="@+id/wisdom_content_pager"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RelativeLayout
+        android:id="@+id/all_title"
+        android:layout_width="match_parent"
+        android:background="@android:color/transparent"
+        android:layout_height="@dimen/title_height">
+        <ImageView
+            android:id="@+id/wisdom_info"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/margin_10dp"
+            android:layout_marginRight="@dimen/margin_10dp"
+            android:src="@mipmap/message_white"/>
+        <!--app:pstsTabPaddingLeftRight="5dp"   控制导航条的长度-->
+        <com.example.drawer.stockapp.customview.PagerSlidingTabStrip
+            android:id="@+id/wisdom_group"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:textColor="@color/title_text_un_color"
+            android:textSize="12sp"
+            android:layout_centerHorizontal="true"
+            app:pstsDividerColor="@android:color/transparent"
+            app:pstsIndicatorColor="@color/content_bg"
+            app:pstsIndicatorHeight="2dp"
+            app:pstsScaleZoomMax="0.1"
+            app:pstsShouldExpand="true"
+            app:pstsTabPaddingLeftRight="10dp"
+            app:pstsTextSelectedColor="@color/write_color"
+            />
+        <ImageView
+            android:id="@+id/pop_item_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/search_white"
+            android:padding="@dimen/margin_10dp" />
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

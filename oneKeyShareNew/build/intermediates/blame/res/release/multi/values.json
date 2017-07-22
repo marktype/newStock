@@ -1,0 +1,1662 @@
+[
+    {
+        "outputFile": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 81,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 81,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 81,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 81,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 45,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 86,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 45,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 45,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 42,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 42,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 48,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 48,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 41,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 41,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 46,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 46,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 50,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 50,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 69,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 69,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 108,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 108,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 46,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 46,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 54,
+                    "endOffset": 906
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 54,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 911,
+                    "endColumn": 102,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 102,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 51,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 51,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 52,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 52,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 103,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 103,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 83,
+                    "endOffset": 1302
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 83,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1307,
+                    "endLine": 86,
+                    "endColumn": 9,
+                    "endOffset": 3187
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endLine": 84,
+                        "endColumn": 9,
+                        "endOffset": 3023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3192,
+                    "endColumn": 54,
+                    "endOffset": 3242
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3028,
+                        "endColumn": 54,
+                        "endOffset": 3078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3247,
+                    "endColumn": 52,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3083,
+                        "endColumn": 52,
+                        "endOffset": 3131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endColumn": 52,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3136,
+                        "endColumn": 52,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endColumn": 57,
+                    "endOffset": 3406
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3189,
+                        "endColumn": 57,
+                        "endOffset": 3242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3411,
+                    "endColumn": 50,
+                    "endOffset": 3457
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3247,
+                        "endColumn": 50,
+                        "endOffset": 3293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3462,
+                    "endColumn": 43,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3298,
+                        "endColumn": 43,
+                        "endOffset": 3337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endColumn": 54,
+                    "endOffset": 3556
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3342,
+                        "endColumn": 54,
+                        "endOffset": 3392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3561,
+                    "endColumn": 104,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3397,
+                        "endColumn": 104,
+                        "endOffset": 3497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endColumn": 52,
+                    "endOffset": 3714
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3502,
+                        "endColumn": 52,
+                        "endOffset": 3550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3719,
+                    "endColumn": 101,
+                    "endOffset": 3816
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3555,
+                        "endColumn": 101,
+                        "endOffset": 3652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3821,
+                    "endColumn": 43,
+                    "endOffset": 3860
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3657,
+                        "endColumn": 43,
+                        "endOffset": 3696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3865,
+                    "endColumn": 85,
+                    "endOffset": 3946
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3701,
+                        "endColumn": 85,
+                        "endOffset": 3782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3951,
+                    "endColumn": 52,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3787,
+                        "endColumn": 52,
+                        "endOffset": 3835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 42,
+                    "endOffset": 4042
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3840,
+                        "endColumn": 42,
+                        "endOffset": 3878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4047,
+                    "endColumn": 86,
+                    "endOffset": 4129
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3883,
+                        "endColumn": 86,
+                        "endOffset": 3965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4134,
+                    "endColumn": 44,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3970,
+                        "endColumn": 44,
+                        "endOffset": 4010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 43,
+                    "endOffset": 4218
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4015,
+                        "endColumn": 43,
+                        "endOffset": 4054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4223,
+                    "endColumn": 59,
+                    "endOffset": 4278
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4059,
+                        "endColumn": 59,
+                        "endOffset": 4114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4283,
+                    "endColumn": 54,
+                    "endOffset": 4333
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4119,
+                        "endColumn": 54,
+                        "endOffset": 4169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4338,
+                    "endColumn": 46,
+                    "endOffset": 4380
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 46,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4385,
+                    "endColumn": 47,
+                    "endOffset": 4428
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 47,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4433,
+                    "endColumn": 49,
+                    "endOffset": 4478
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 49,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4483,
+                    "endColumn": 53,
+                    "endOffset": 4532
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 53,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4537,
+                    "endColumn": 57,
+                    "endOffset": 4590
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 57,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4595,
+                    "endColumn": 52,
+                    "endOffset": 4643
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 654,
+                        "endColumn": 49,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4648,
+                    "endColumn": 60,
+                    "endOffset": 4704
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 595,
+                        "endColumn": 57,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4709,
+                    "endColumn": 45,
+                    "endOffset": 4750
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4755,
+                    "endColumn": 57,
+                    "endOffset": 4808
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 57,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4813,
+                    "endColumn": 57,
+                    "endOffset": 4866
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 57,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4871,
+                    "endColumn": 54,
+                    "endOffset": 4921
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 54,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4926,
+                    "endColumn": 56,
+                    "endOffset": 4978
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 56,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4983,
+                    "endColumn": 52,
+                    "endOffset": 5031
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4174,
+                        "endColumn": 52,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5036,
+                    "endColumn": 103,
+                    "endOffset": 5135
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4227,
+                        "endColumn": 103,
+                        "endOffset": 4326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5140,
+                    "endColumn": 44,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4331,
+                        "endColumn": 44,
+                        "endOffset": 4371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endColumn": 46,
+                    "endOffset": 5227
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4376,
+                        "endColumn": 46,
+                        "endOffset": 4418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5232,
+                    "endColumn": 38,
+                    "endOffset": 5266
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4423,
+                        "endColumn": 38,
+                        "endOffset": 4457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5271,
+                    "endColumn": 83,
+                    "endOffset": 5350
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4462,
+                        "endColumn": 83,
+                        "endOffset": 4541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5355,
+                    "endColumn": 43,
+                    "endOffset": 5394
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4546,
+                        "endColumn": 43,
+                        "endOffset": 4585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5399,
+                    "endColumn": 43,
+                    "endOffset": 5438
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4590,
+                        "endColumn": 43,
+                        "endOffset": 4629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5443,
+                    "endColumn": 62,
+                    "endOffset": 5501
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4634,
+                        "endColumn": 62,
+                        "endOffset": 4692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5506,
+                    "endColumn": 63,
+                    "endOffset": 5565
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4697,
+                        "endColumn": 63,
+                        "endOffset": 4756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5570,
+                    "endColumn": 55,
+                    "endOffset": 5621
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4761,
+                        "endColumn": 55,
+                        "endOffset": 4812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5626,
+                    "endColumn": 50,
+                    "endOffset": 5672
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4817,
+                        "endColumn": 50,
+                        "endOffset": 4863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5677,
+                    "endColumn": 55,
+                    "endOffset": 5728
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4868,
+                        "endColumn": 55,
+                        "endOffset": 4919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5733,
+                    "endColumn": 63,
+                    "endOffset": 5792
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4924,
+                        "endColumn": 63,
+                        "endOffset": 4983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5797,
+                    "endColumn": 48,
+                    "endOffset": 5841
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4988,
+                        "endColumn": 48,
+                        "endOffset": 5032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5846,
+                    "endColumn": 47,
+                    "endOffset": 5889
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5037,
+                        "endColumn": 47,
+                        "endOffset": 5080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5894,
+                    "endColumn": 51,
+                    "endOffset": 5941
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5085,
+                        "endColumn": 51,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5946,
+                    "endColumn": 53,
+                    "endOffset": 5995
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 5137,
+                        "endColumn": 53,
+                        "endOffset": 5186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6000,
+                    "endColumn": 50,
+                    "endOffset": 6046
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 5191,
+                        "endColumn": 50,
+                        "endOffset": 5237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6051,
+                    "endColumn": 46,
+                    "endOffset": 6093
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5242,
+                        "endColumn": 46,
+                        "endOffset": 5284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6098,
+                    "endColumn": 48,
+                    "endOffset": 6142
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5289,
+                        "endColumn": 48,
+                        "endOffset": 5333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6147,
+                    "endColumn": 59,
+                    "endOffset": 6202
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5338,
+                        "endColumn": 59,
+                        "endOffset": 5393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6207,
+                    "endColumn": 45,
+                    "endOffset": 6248
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5398,
+                        "endColumn": 45,
+                        "endOffset": 5439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6253,
+                    "endColumn": 59,
+                    "endOffset": 6308
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5444,
+                        "endColumn": 59,
+                        "endOffset": 5499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6313,
+                    "endColumn": 44,
+                    "endOffset": 6353
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5504,
+                        "endColumn": 44,
+                        "endOffset": 5544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6358,
+                    "endColumn": 86,
+                    "endOffset": 6440
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5549,
+                        "endColumn": 86,
+                        "endOffset": 5631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6445,
+                    "endColumn": 52,
+                    "endOffset": 6493
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5636,
+                        "endColumn": 52,
+                        "endOffset": 5684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6498,
+                    "endColumn": 52,
+                    "endOffset": 6546
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 5689,
+                        "endColumn": 52,
+                        "endOffset": 5737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6551,
+                    "endColumn": 59,
+                    "endOffset": 6606
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5742,
+                        "endColumn": 59,
+                        "endOffset": 5797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6611,
+                    "endColumn": 58,
+                    "endOffset": 6665
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5802,
+                        "endColumn": 58,
+                        "endOffset": 5856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6670,
+                    "endColumn": 50,
+                    "endOffset": 6716
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5861,
+                        "endColumn": 50,
+                        "endOffset": 5907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6721,
+                    "endColumn": 98,
+                    "endOffset": 6815
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5912,
+                        "endColumn": 98,
+                        "endOffset": 6006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6820,
+                    "endColumn": 41,
+                    "endOffset": 6857
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 6011,
+                        "endColumn": 41,
+                        "endOffset": 6048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6862,
+                    "endColumn": 83,
+                    "endOffset": 6941
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 6053,
+                        "endColumn": 83,
+                        "endOffset": 6132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6946,
+                    "endColumn": 51,
+                    "endOffset": 6993
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 6137,
+                        "endColumn": 51,
+                        "endOffset": 6184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6998,
+                    "endColumn": 45,
+                    "endOffset": 7039
+                },
+                "from": {
+                    "file": "E:\\Android\\downloadapp\\NewsStock-master\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\NewsStock-master\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 6189,
+                        "endColumn": 45,
+                        "endOffset": 6230
+                    }
+                }
+            }
+        ]
+    }
+]
